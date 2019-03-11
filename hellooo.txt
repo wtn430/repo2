@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 12345678
 zxcvbn
+
+qwertyuio
+asdfghjkl
+
